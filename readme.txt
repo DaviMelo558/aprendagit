@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Limpando
-=======
-UMA MUDANÇA REPENTINA ACONTECENDO
->>>>>>> 067e53e5d2954c46930d0fc643bde8d5e58114ef
